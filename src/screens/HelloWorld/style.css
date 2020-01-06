@@ -1,0 +1,21 @@
+header {
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+}
+
+.HelloWorld-logo {
+  height: 4rem;
+  padding-right: 3rem;
+}
+
+
+main {
+  margin: 2rem;
+  padding: 2rem;
+  border: 1px solid black;
+}
+
+footer {
+  padding: 2rem;
+}

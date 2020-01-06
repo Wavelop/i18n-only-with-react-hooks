@@ -1,0 +1,9 @@
+.LanguageSwitcher {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.LanguageSwitcher span {
+  padding: 1rem 0;
+}

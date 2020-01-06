@@ -1,0 +1,11 @@
+{
+  "Application.title": "Wavelop",
+  "Application.subTitle": "i18n internalization with only React hooks - translate",
+
+  "Application.footer": "Developed by Wavelop",
+
+  "LanguageSwitcher.used": "Lang selected:",
+  "LanguageSwitcher.it": "Italiano",
+  "LanguageSwitcher.en": "English",
+  "LanguageSwitcher.fr": "Français"
+}
