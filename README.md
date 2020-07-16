@@ -1,9 +1,11 @@
 # i18n internalization with only React hooks - translate
 
-In this article, we are going to explain how to set up a translation/i18n internalization system with only React hooks. 
+In this tutorial, we are going to explain how to set up a translation/i18n internalization system with only React hooks. 
+You can read the article [here](https://wavelop.com/en/story/i18n-only-with-react-hooks/).
+
 The first article of the series _How To Implement a Translation System Without Any Library_ was about **React Native** and can be read [here](https://wavelop.com/en/story/implementing-multi-language-without-any-library-in-react-native/).
 
-You can find the code of this tutorial [here](https://wavelop.com/en/story/i18n-only-with-react-hooks/).
+You can find the code of this tutorial [here](https://github.com/Wavelop/i18n-only-with-react-hooks).
 You can take a look at a demo [here](https://wavelop-i18n-react-hooks.firebaseapp.com/).
 
 > Keep in mind to adapt the code to your best practice and code styling.
@@ -555,7 +557,7 @@ With the combination of the React Hooks API is easy to create an i18n translate 
 
 This tutorial is part of the series _How To Implement a Translation System Without Any Library_ and the first article was about **React Native** and can be read [here](https://wavelop.com/en/story/implementing-multi-language-without-any-library-in-react-native/).
 
-You can find the code of this tutorial [here](https://wavelop.com/en/story/i18n-only-with-react-hooks/).
+You can find the code of this tutorial [here](https://github.com/Wavelop/i18n-only-with-react-hooks).
 You can take a look at a demo [here](https://wavelop-i18n-react-hooks.firebaseapp.com/).
 
 If you have questions, please write to us on the chat or an email to [info@wavelop.com](mailto:info@wavelop.com).
