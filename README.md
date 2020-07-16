@@ -542,7 +542,7 @@ i18n-only-with-react-hooks
 
 Now everything is working, execute `npm run start` and go to [localhost:3000](http://localhost:3000) to test it. 
 
-![Demo](20200106_test_1.gif)
+![Demo](./demo.gif)
 
 # Reference 
 
